@@ -1,0 +1,17 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Adobe temporary and backup files
+*.tmp
+*.bak
+.DS_Store
+
+# Log files
+*.log
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+ 
