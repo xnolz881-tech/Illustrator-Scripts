@@ -142,7 +142,7 @@ function main() {
     dropGroup.add("statictext", undefined, "Select Tag:");
     var tagDropdown = dropGroup.add("dropdownlist", undefined, ["None", "Add _cut", "Add _print", "Custom Tag..."]);
 
-    var customGroup = modPanel.add("group");
+    var customGroup = dropGroup.add("group");
     customGroup.orientation = "row";
     customGroup.add("statictext", undefined, "Custom Tag text:");
     var customInput = customGroup.add("edittext", undefined, "");
