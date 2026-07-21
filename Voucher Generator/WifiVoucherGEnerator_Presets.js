@@ -1,10 +1,13 @@
 #target illustrator
 
-/*
-Ultimate WiFi Voucher Master Pro - Persistent Font Update
+
+// =================================================================
+// Ultimate WiFi Voucher Master Pro - Persistent Font Update
+// Copyright (c) 2026 Noli A. Navarro  (Graphtech Advertyizing)
+// Licensed under the MIT License (See repository root for details)
+// =================================================================
 
 
- */
 var ver = "2.0";
 var PropertyRights = "Property of Graphtech Advertizing";
 

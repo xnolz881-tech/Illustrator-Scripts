@@ -1,7 +1,12 @@
 #target illustrator
 
+// =================================================================
+// Illustrator Shape Sequence: THE COMPLETE ULTIMATE MASTER SCRIPT
+// Copyright (c) 2026 Noli A. Navarro  (Graphtech Advertyizing)
+// Licensed under the MIT License (See repository root for details)
+// =================================================================
 /*
-  Illustrator Shape Sequence: THE COMPLETE ULTIMATE MASTER SCRIPT
+  
   Features: Stroke Weight, Reset Defaults, Persistent Settings, CSV, Multi-Page, Gutter, Margins, Orientation, Fonts, Units, Colors
   UPDATES: Smart Text Auto-Fitting, Text Alignment, Start/End Number Range Generation, Font Size Input, Text Justify Alignment, Dynamic Zero Padding, Live Stats, Font Name Persistence, Color Persistence, Prefix/Suffix Strings, Custom Top-Left Coordinates Override, Asymmetrical Spacing & Column Auto-Distribution, Bidirectional Layout Flow Sorting, Bidirectional Auto-Distribution (Rows/Cols), Dynamic Base Artboard Resizing, Real-Time Swatch Panel Bindings (Fill, Stroke, & Text)
   FIXES: Fixed array index references on artboardRect parsing to completely eliminate duplicate Swatches.

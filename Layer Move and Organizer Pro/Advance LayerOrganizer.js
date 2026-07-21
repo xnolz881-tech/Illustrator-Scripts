@@ -1,6 +1,6 @@
 // =================================================================
 // Advanced Layer Mover & Organizer
-// Copyright (c) 2026 Your Name / Studio
+// Copyright (c) 2026 Noli A. Navarro  (Graphtech Advertyizing)
 // Licensed under the MIT License (See repository root for details)
 // =================================================================
 
@@ -243,7 +243,7 @@ function main() {
     footerGroup.alignment = ["center", "bottom"];
     footerGroup.margins = 2;
     
-    var txtAuthor = footerGroup.add("statictext", undefined, "Developed by: Noli A. Navarro  (Graphtech Advertyizing)");
+    var txtAuthor = footerGroup.add("statictext", undefined, "Developed by: Noli A. Navarro  (Graphtech Advertizing)");
     txtAuthor.graphics.font = ScriptUI.newFont("sans", "ITALIC", 8);
     // -------------------------------------------------------------
 
