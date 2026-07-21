@@ -71,7 +71,6 @@ Select printing registration marks or dimension callouts, launch the script, and
 ## 📝 Author Note
 Developed with precision loop logic architectures to guarantee speed, efficiency, and zero software engine allocation deadlocks. 
 
-*Developed by: Your Name / Studio*
 ---
 
 ## 📄 License & Credits
@@ -79,6 +78,7 @@ Developed with precision loop logic architectures to guarantee speed, efficiency
 This project is licensed under the **MIT License** — free to use, modify, and distribute for both personal and commercial projects. 
 
 ### 🌟 Credit the Author
+
 If this script saves you time in your production workflow, giving the repository a ⭐ **Star** on GitHub is highly appreciated!
 
 ---
