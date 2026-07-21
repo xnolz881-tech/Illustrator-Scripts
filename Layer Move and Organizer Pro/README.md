@@ -98,4 +98,4 @@ Contributions are welcome! If you want to help improve this script, please follo
 * Avoid using recursive functions on Illustrator DOM object collections (`doc.layers.move()`) to protect against application crashes.
 * Always use defensive coding wrappers (`try/catch` blocks) when interacting with application preferences or system color engines.
 
-*Maintained and developed by **Noli A. Navarro  (Graphtech Advertyizing)**.*
+*Maintained and developed by **Noli A. Navarro  (Graphtech Advertizing)**.*
