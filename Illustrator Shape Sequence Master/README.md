@@ -43,6 +43,7 @@ An advanced automation script for Adobe Illustrator that dynamically generates s
 *   **Original Creator** - [Noli A. Navarro ](https://github.com/xnolz881-tech)
 
 *Feel free to reach out, open an issue, or submit a pull request if you want to collaborate on expanding this utility!*
+*e-mail: nolz88@yahoo.com*
 
 ## 📄 License & Attribution
 This project is open-source and available under the MIT License - feel free to use, modify, and distribute it for personal or commercial automation tasks.
