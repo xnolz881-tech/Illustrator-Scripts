@@ -1,3 +1,10 @@
+// =================================================================
+// Advanced Layer Mover & Organizer
+// Copyright (c) 2026 Your Name / Studio
+// Licensed under the MIT License (See repository root for details)
+// =================================================================
+
+
 // PART 1A: SETUP & COLOR MAPPINGS
 function main() {
     if (app.documents.length === 0) {
