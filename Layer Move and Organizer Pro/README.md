@@ -1,4 +1,9 @@
 # Advanced Layer Mover & Organizer for Adobe Illustrator
+<div align="center">
+  <kbd>
+    <img src="images/screenshot.jpg" alt="App Screenshot" width="600">
+  </kbd>
+</div>
 
 A production-grade ExtendScript (`.jsx`) utility designed for Adobe Illustrator that accelerates layout workflows, artwork channel isolation, and prepress organization. It allows operators to move selected objects to a destination layer instantly while dynamically handling naming rules, structural layer formatting, preset profiles, auto-saving choices, and automatic alphabetical sorting.
 
